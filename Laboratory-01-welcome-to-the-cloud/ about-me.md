@@ -1,10 +1,13 @@
 # About Me
 
-# Name
+## Name
 Karla Patricia G. Consolacion
-# Course/Block
+
+## Course/Block
 Bechelor of Science in Information Technology - 4th Year Block J
-# Interest
+
+## Interest
 Cloud Computing, Linux, and learnig new technologies.
-# Goal
+
+## Goal
 Lear cloud infrastructure and system administration.
